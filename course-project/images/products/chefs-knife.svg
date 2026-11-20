@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="t">
+<title id="t">Illustration of a chef's knife</title>
+<rect width="400" height="300" fill="#E3E8EA"/>
+<circle cx="330" cy="60" r="90" fill="#FFFFFF" opacity=".18"/>
+<ellipse cx="200" cy="262" rx="140" ry="12" fill="#000" opacity=".10"/>
+
+<path d="M60 175c60-55 150-75 220-70l0 30c-80 10-160 30-220 40z" fill="#C3CBCD"/>
+<path d="M60 175c70-20 140-32 220-40v-6c-80 6-150 22-220 46z" fill="#FFFFFF" opacity=".5"/>
+<rect x="278" y="100" width="12" height="40" rx="3" fill="#6B777A"/>
+<path d="M290 106h70a14 14 0 0 1 0 28h-70z" fill="#2B3A3F"/>
+<g fill="#C3CBCD"><circle cx="312" cy="120" r="4"/><circle cx="340" cy="120" r="4"/></g>
+</svg>

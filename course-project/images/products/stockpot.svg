@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="t">
+<title id="t">Illustration of a stainless steel stockpot</title>
+<rect width="400" height="300" fill="#CFE7E5"/>
+<circle cx="330" cy="60" r="90" fill="#FFFFFF" opacity=".18"/>
+<ellipse cx="200" cy="262" rx="140" ry="12" fill="#000" opacity=".10"/>
+
+<rect x="110" y="95" width="180" height="18" rx="9" fill="#2B3A3F"/>
+<rect x="185" y="78" width="30" height="20" rx="8" fill="#2B3A3F"/>
+<path d="M120 115h160v120a20 20 0 0 1-20 20H140a20 20 0 0 1-20-20z" fill="#9AA5A8"/>
+<path d="M135 125h18v115h-18z" fill="#FFFFFF" opacity=".35"/>
+<rect x="82" y="135" width="40" height="14" rx="7" fill="#2B3A3F"/>
+<rect x="278" y="135" width="40" height="14" rx="7" fill="#2B3A3F"/>
+</svg>
